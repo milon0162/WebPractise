@@ -1,0 +1,20 @@
+.header{}
+.header-left{
+	background:#4B98A5;
+	height:50px;
+	line-height:50px;
+	font-weight:bold;
+	font-family:cursive;
+	color:#BFE4ED;
+	font-size:30px;
+	padding:left;
+}
+.header-right{
+	background:#4B98A5;
+	height:50px;
+	line-height:50px;
+	
+}
+.menu a{
+	margin:10px
+}

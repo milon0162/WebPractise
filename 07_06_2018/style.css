@@ -1,0 +1,31 @@
+/*Header Start*/
+.header{
+	background:#42413F;
+	padding:px;
+	margin-top:0px;
+}
+.header h1{
+	color:#F6F6F6
+}
+.header h1 span{
+	 color:#BA6D51;
+}
+.header h4{
+	color:#53453A;
+	background:#353535;
+}
+.header h4 span{
+	 color:#7A7D7C;
+}
+.span{
+	background:#3F3F3F
+}
+.menu{
+	margin-bottom:0px;
+	padding-bottom:0px;
+	width:100%
+}
+.menu a{
+	font-size:16px;
+	margin:0px;
+}

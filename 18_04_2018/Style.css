@@ -1,0 +1,22 @@
+a{
+	font-size:30px; 
+	color:teal; 
+	margin-right:30px; 
+	text-decoration:none;
+	height:200px;
+	width:200px;
+	padding:5px 10px 5px 10px;
+	display:blank;
+	font-weight:bold
+}
+
+a:hover{
+	color:lightgreen;
+	background:teal;
+	transition-duration:0.3s;
+}
+
+section{ 
+	font-size:200px; 
+	text-align:center; 
+}
